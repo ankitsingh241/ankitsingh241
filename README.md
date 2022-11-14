@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning DevOps Tools
 - 👯 I’m looking to collaborate on Docker, Kubernetes and Jenkins
 - 🤔 I’m looking for help with Devops tools and Internship.
-- 📫 How to reach me: mail me at ankitsingh241@outlook.com or iamankitsingh24@gmail.com
+- 📫 How to reach me: mail me at iamankitsingh24@gmail.com
 <!--
 ### Hi there 👋
 
