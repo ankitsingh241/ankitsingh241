@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ankit Singh
 - 🌱 I’m currently learning DevOps Tools
-- 👯 I’m looking to collaborate on Docker, Kubernetes and Jenkins
+- 👯 I’m looking to collaborate on Docker, AWS and Jenkins
 - 🤔 I’m looking for help with Devops tools and Internship.
 - 📫 How to reach me: mail me at iamankitsingh24@gmail.com
 <!--
